@@ -1,1 +1,1 @@
-# EyeFi: Fast Human Identification Through Visionand WiFi based Trajectory Matching
+# EyeFi: Fast Human Identification Through Vision and WiFi based Trajectory Matching
