@@ -1,6 +1,6 @@
 # EyeFi: Fast Human Identification Through Vision and WiFi-based Trajectory Matching
 
-# This repository provides the dataset for the following reseach paper:
+### This repository provides the dataset for the following reseach paper:
 
 ```
 @inproceedings{eyefi2020,
