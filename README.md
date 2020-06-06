@@ -1,6 +1,6 @@
 # EyeFi: Fast Human Identification Through Vision and WiFi-based Trajectory Matching
 
-This is the repository for the EyeFi research project. This repository provides the dataset for the following reseach paper:
+This is the official repository for the EyeFi research project. It provides the dataset for the following reseach paper:
 
 ```
 @inproceedings{eyefi2020,
@@ -11,6 +11,7 @@ This is the repository for the EyeFi research project. This repository provides 
   organization={IEEE}
 }
 ```
+Please read the research paper to know about the project.
 
 # Dataset download
-The dataset can be downloaded from here: https://zenodo.org/record/3882104. Please read the research paper to know about experimental setup.
+The dataset can be downloaded from here: https://zenodo.org/record/3882104. 
