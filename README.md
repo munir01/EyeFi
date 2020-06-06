@@ -19,4 +19,4 @@ Human sensing, motion trajectory estimation, and identification are central to a
 Please read the research paper to know more about the project.
 
 # Dataset download
-The dataset can be downloaded from here: https://zenodo.org/record/3882104. 
+The EyeFi dataset can be downloaded from here: https://zenodo.org/record/3882104. 
