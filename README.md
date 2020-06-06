@@ -13,5 +13,4 @@ This is the repository for the EyeFi research project. This repository provides 
 ```
 
 # Dataset download
-The dataset can be downloaded from here: https://zenodo.org/record/3882104
-Please read the research paper to understand experimental setup.
+The dataset can be downloaded from here: https://zenodo.org/record/3882104. Please read the research paper to know about experimental setup.
